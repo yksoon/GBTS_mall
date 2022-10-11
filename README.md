@@ -16,3 +16,17 @@
 - 프로젝트 구성 및 기획
 
 ## 프로젝트 화면
+1. 메인
+![메인](https://user-images.githubusercontent.com/62881936/195018675-a6d922fd-7bd8-41bd-acae-f43780093ce5.png)
+
+2. Q&A
+![QnA](https://user-images.githubusercontent.com/62881936/195018671-69bc15ef-b533-48ab-87ec-900a2a6b63d3.png)
+
+3. 바로북 예약
+![바로북](https://user-images.githubusercontent.com/62881936/195018678-53080ef4-90bb-4429-87f9-5e106a6106a0.png)
+
+4. 관리자 및 회원사 ERP
+![ERP](https://user-images.githubusercontent.com/62881936/195018666-062e9bcd-8fd2-46f7-ad4e-659057d330f8.png)
+
+## 프로젝트 후기
+사내에서 React 및 Bootstrap 을 사용하고 있어 처음으로 이를 이용하여 프로젝트를 진행 하였다. 처음 하는 React이다보니 기존에 사용했던 JAVA기반 jQuery 프로젝트와는 사뭇 다른 느낌이었으며 사용 및 재활용도 훨씬 편했던 것 같다. 백엔드는 이전에 JAVA를 이용하여 통신했던것과 다르게 PHP를 이용하였던것도 새로웠고, 많이 배운 것 같다. 사내에서 개발한 소켓통신도 아주 유용하게 사용 했다. 실력 향상에 많은 도움이 되었던 프로젝트였다.
